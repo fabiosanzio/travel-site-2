@@ -2,6 +2,8 @@
 	position: relative;
 	padding-bottom: 2.5rem;
 
+
+
 	@mixin atSmall {
 		padding-left: 94px;
 	}
